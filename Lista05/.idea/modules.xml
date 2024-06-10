@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercicio/Exe05/Exe05.iml" filepath="$PROJECT_DIR$/Exercicio/Exe05/Exe05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioRecursividade/Exe05Recursividade/Exe05Recursividade.iml" filepath="$PROJECT_DIR$/ExercicioRecursividade/Exe05Recursividade/Exe05Recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicio/Exercicio.iml" filepath="$PROJECT_DIR$/Exercicio/Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioRecursividade/ExercicioRecursividade.iml" filepath="$PROJECT_DIR$/ExercicioRecursividade/ExercicioRecursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista05.iml" filepath="$PROJECT_DIR$/Lista05.iml" />
     </modules>
   </component>
